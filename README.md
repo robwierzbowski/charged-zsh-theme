@@ -2,7 +2,7 @@
 
 ![screenshot](screenshot.png)
 
-A simple prompt with lightning bolt for [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh).  
+A simple zsh prompt with lightning bolt. Use with [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh).  
 Works well with the solarized dark theme.  
 Also comes with three levels of CWD, current branch name, and a working or clean symbol.  
 But the important part is the lightning bolt.  
